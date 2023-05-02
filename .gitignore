@@ -1,0 +1,7 @@
+share/
+Scripts/
+Lib/
+Include/
+etc/
+.ipynb_checkpoints/
+pyvenv.cfg
